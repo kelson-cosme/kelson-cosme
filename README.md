@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @kelson-cosme
-- 👀 I’m interested in  React js
-- 🌱 I’m currently learning  JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me E-mail: kelson.almeida123@gmail.com
+# Olá 🖖
 
-<!---
-kelson-cosme/kelson-cosme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é **Kelson Cosme**, atualmente estou cursando Engenharia da Computação.
+Focado sempre em aprender. 
+Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
+
+- 💻 Minha Stack: **HTML, CSS e JavaScript.**  
+- 📘 Interesse em prender : **ReactJS, Node.js.**
+
+Redes sociais👇
+> [![Linkedin Badge](https://img.shields.io/badge/-KelsonCosme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kelson-cosme-7a073416b/)](https://www.linkedin.com/in/kelson-cosme-7a073416b/)
+[![Gmail Badge](https://img.shields.io/badge/-kelsoncosme.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelsoncosme.dev@gmail.com)](kelsoncosme.dev@gmail.com)
+
+
