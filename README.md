@@ -17,4 +17,4 @@ Redes sociais👇
 [![Gmail Badge](https://img.shields.io/badge/-kelsoncosme.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelsoncosme.dev@gmail.com)](kelsoncosme.dev@gmail.com)
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelson-cosme&show_icons=true)
+<img align='right' src="https://github-readme-stats.vercel.app/api?kelson-cosme=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
