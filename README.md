@@ -10,7 +10,7 @@ Sempre aberto a novos desafios e pronto para enfrentar as mudanças.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://www.gstatic.com/devrel-devsite/prod/v693c51561ffcdff9e6200b7e4cd9c2bdcde516af6b265b56d58924d489006b90/firebase/images/touchicon-180.png" alt="Firebase"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap"/></code>
+<code><img height="29" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap"/></code>
 
 ---
 
