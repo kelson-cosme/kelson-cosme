@@ -32,43 +32,6 @@
 
 <br>
 
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns dos projetos nos quais trabalhei recentemente. Sinta-se à vontade para explorar os repositórios!
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Rent a Friend</h3>
-      <p>Uma aplicação web full-stack que permite aos usuários se conectarem com "amigos" para diversas atividades.</p>
-      <p><strong>Tecnologias:</strong> `React`, `Node.js`, `Express`, `MySQL`</p>
-      <a href="https://github.com/kelson-cosme/rent-a-friend" target="_blank">Ver Repositório →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Trybe Futebol Clube (TFC)</h3>
-      <p>Uma API RESTful para um site informativo sobre partidas e classificações de futebol, seguindo os princípios de POO e SOLID.</p>
-      <p><strong>Tecnologias:</strong> `TypeScript`, `Node.js`, `Express`, `Sequelize`, `Docker`</p>
-      <a href="https://github.com/kelson-cosme/tfc-trybe-futebol-clube" target="_blank">Ver Repositório →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Blogs API</h3>
-      <p>API para um blog com funcionalidades de cadastro, login e gerenciamento de posts e categorias, utilizando autenticação JWT.</p>
-      <p><strong>Tecnologias:</strong> `Node.js`, `Express`, `Sequelize`, `PostgreSQL`</p>
-      <a href="https://github.com/kelson-cosme/blogs-api" target="_blank">Ver Repositório →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Frontend Online Store</h3>
-      <p>Interface para uma loja online com funcionalidades de busca, listagem e carrinho de compras, consumindo a API do Mercado Livre.</p>
-      <p><strong>Tecnologias:</strong> `React`, `CSS`, `JavaScript`</p>
-      <a href="https://github.com/kelson-cosme/frontend-online-store" target="_blank">Ver Repositório →</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -81,6 +44,6 @@ Aqui estão alguns dos projetos nos quais trabalhei recentemente. Sinta-se à vo
 ## 📫 Entre em Contato
 
 <p align="center">
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kelson.almeida123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/kelson-cosme/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
